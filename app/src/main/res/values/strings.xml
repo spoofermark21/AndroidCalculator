@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RxnCalculator</string>
+    <string name="action_settings">Hello</string>
+
+
+    <string name="btnBckSpace">BCK</string>
+    <string name="btnCE">CE</string>
+    <string name="btnC">C</string>
+    <string name="btnPlusMinus">+/-</string>
+    <string name="btnSqrRoot">SQR</string>
+
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btn0">0</string>
+
+    <string name="btnDivision">/</string>
+    <string name="btnPercent">%</string>
+    <string name="btnMultiply">*</string>
+    <string name="btn1x">1/x</string>
+    <string name="btnMinus">-</string>
+    <string name="btnAddition">+</string>
+    <string name="btnDot">.</string>
+    <string name="btnResults">=</string>
+
+
+    <string name="results">0</string>
+</resources>
