@@ -15,8 +15,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight=".15"
-        android:orientation="horizontal"
-        android:background="#000">
+        android:orientation="horizontal">
 
         <EditText
             android:id="@+id/editText"
@@ -30,7 +29,7 @@
             android:textSize="50sp"
             android:numeric="integer"
             android:singleLine="true"
-            android:textColor="#FFFFFF"/>
+            android:textColor="@color/editText"/>
     </LinearLayout>
 
     <LinearLayout

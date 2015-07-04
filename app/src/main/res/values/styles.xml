@@ -8,5 +8,6 @@
 
     <color name ="background">#027878</color>
     <color name="buttons">#fff5c3</color>
+    <color name="editText">#FFFFFF</color>
 
 </resources>
