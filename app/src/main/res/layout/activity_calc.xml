@@ -8,6 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/background"
     tools:context=".CalcActivity">
 
     <LinearLayout
@@ -42,7 +43,7 @@
             android:layout_height="match_parent"
             android:layout_weight=".20"
             android:text="@string/btnBckSpace"
-            android:textSize="20sp" />
+            android:textSize="20sp"/>
 
         <Button
             android:id="@+id/btnCE"
