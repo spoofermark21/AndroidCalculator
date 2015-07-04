@@ -22,7 +22,7 @@
 
     <string name="btnDivision">/</string>
     <string name="btnPercent">%</string>
-    <string name="btnMultiply">*</string>
+    <string name="btnMultiply">x</string>
     <string name="btn1x">1/x</string>
     <string name="btnMinus">-</string>
     <string name="btnAddition">+</string>

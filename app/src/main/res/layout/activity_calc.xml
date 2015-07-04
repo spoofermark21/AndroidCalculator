@@ -15,7 +15,8 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight=".15"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:background="#000">
 
         <EditText
             android:id="@+id/editText"
@@ -27,8 +28,9 @@
             android:padding="10dp"
             android:text="@string/results"
             android:textSize="50sp"
-            android:numeric="decimal"
-            android:singleLine="true"/>
+            android:numeric="integer"
+            android:singleLine="true"
+            android:textColor="#FFFFFF"/>
     </LinearLayout>
 
     <LinearLayout
