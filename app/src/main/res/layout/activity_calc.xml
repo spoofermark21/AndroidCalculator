@@ -14,19 +14,19 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight=".15"
+        android:layout_weight=".10"
         android:orientation="horizontal">
 
-        <EditText
-            android:id="@+id/editText"
+        <TextView
+            android:id="@+id/editText1"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="fill_parent"
             android:layout_gravity="bottom"
-            android:gravity="right"
+            android:gravity="end"
             android:maxLines="1"
             android:padding="10dp"
-            android:text="@string/results"
-            android:textSize="50sp"
+            android:text=""
+            android:textSize="30sp"
             android:numeric="integer"
             android:singleLine="true"
             android:textColor="@color/editText"/>
@@ -35,7 +35,27 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight=".17"
+        android:layout_weight=".10"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="bottom"
+            android:gravity="right"
+            android:maxLines="1"
+            android:padding="10dp"
+            android:text="@string/results"
+            android:textSize="30sp"
+            android:numeric="integer"
+            android:singleLine="true"
+            android:textColor="@color/editText"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".16"
         android:orientation="horizontal">
 
         <Button
@@ -83,7 +103,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight=".17"
+        android:layout_weight=".16"
         android:orientation="horizontal">
 
         <Button
@@ -131,7 +151,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight=".17"
+        android:layout_weight=".16"
         android:orientation="horizontal">
 
         <Button
@@ -179,7 +199,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight=".34"
+        android:layout_weight=".36"
         android:orientation="horizontal">
 
         <LinearLayout
