@@ -26,7 +26,7 @@
             android:maxLines="1"
             android:text=""
             android:textSize="25sp"
-            android:numeric="integer"
+            android:inputType="numberDecimal"
             android:singleLine="true"
             android:textColor="@color/editText"/>
     </LinearLayout>
@@ -45,7 +45,7 @@
             android:maxLines="1"
             android:text="@string/results"
             android:textSize="25sp"
-            android:numeric="integer"
+            android:inputType="numberDecimal"
             android:singleLine="true"
             android:textColor="@color/editText"/>
     </LinearLayout>
