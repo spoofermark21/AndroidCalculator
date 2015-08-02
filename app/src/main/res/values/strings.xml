@@ -21,9 +21,9 @@
     <string name="btn0">0</string>
 
     <string name="btnDivision">÷</string>
-    <string name="btnSquare">²</string>
+    <string name="btnSquare">×²</string>
     <string name="btnMultiply">×</string>
-    <string name="btnCube">³</string>
+    <string name="btnCube">×³</string>
     <string name="btnMinus">-</string>
     <string name="btnAddition">+</string>
     <string name="btnDot">.</string>
