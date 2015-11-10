@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">RxnCalculator</string>
+    <string name="app_name">Dentaku</string>
     <string name="action_settings">Hello</string>
 
 
-    <string name="btnBckSpace">bck</string>
+    <string name="btnBckSpace">del</string>
     <string name="btnCE">CE</string>
     <string name="btnC">C</string>
     <string name="btnPlusMinus">±</string>
